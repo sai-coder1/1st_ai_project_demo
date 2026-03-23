@@ -40,7 +40,13 @@ CareerShift AI is a smart platform that helps users identify job risks due to AI
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![landing page](landing page.png)
+
+![Input Form](input.png)
+
+![dashboard](dashboard.png)
+
+![Roadmap](roadmap.png)
 
 ---
 
