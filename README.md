@@ -1,35 +1,49 @@
-# 🚀 AI Project Demo
+# CareerShift AI 🚀
 
-## 📌 Description
+## 🔥 Overview
 
-This is an AI-assisted project built to solve [write your problem here].
+CareerShift AI is a smart platform that helps users identify job risks due to AI and provides personalized career transition roadmaps based on learning speed and skills.
 
-## 💡 Features
+---
 
-* User-friendly interface
-* Fast performance
-* AI-assisted functionality
+## 🎯 Features
 
-## 🛠️ Tech Used
+* AI Job Risk Analysis
+* Career Suggestions
+* Skill Gap Identification
+* Adaptive 30-Day Roadmap
+* Personalized Learning Plans
 
-* HTML
-* CSS
-* JavaScript
-* AI tools (for assistance)
+---
 
-## 🤖 AI Usage
+## 🧠 How It Works
 
-This project was built with the help of AI tools. I understood the logic and customized parts of the implementation.
+1. User enters job role and skills
+2. System analyzes AI risk
+3. Suggests alternative careers
+4. Generates a personalized roadmap
 
-## 📚 What I Learned
+---
 
-* How to build a real project
-* How to use AI in development
-* Improved problem-solving skills
+## 💡 Tech Stack
 
-## ▶️ How to Run
+* Frontend: React (Lovable generated UI)
+* AI Logic: Prompt-based simulation
 
-1. Download the files
-2. Open index.html in browser
+---
 
-##
+## 🚀 Live Demo
+
+👉 https://careershift-ai.lovable.app
+
+---
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+---
+
+## 🏆 Hackathon Project
+
+Built to address unemployment challenges caused by AI by helping users transition into future-proof careers.
